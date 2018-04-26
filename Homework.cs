@@ -3,7 +3,7 @@ namespace Bulldozer
 {
     class MainClass 
     {
-        public static void Main(string())??? 
+        public static void Main(string())
         {
 	var dozer = new BullDozer
 	dozer.color = “Yellow”
@@ -13,7 +13,6 @@ namespace Bulldozer
         }
     }
 }
-
 
 
 public class BullDozer
